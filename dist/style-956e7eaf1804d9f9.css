@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+div {
+    margin-top: 35px;
+    text-align: center;
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+p{
+    font-size: 15em;
+
+}
+button{
+    width: 50%;
+    height: 50%;
+    font-size: 5em;
+    font-family: 'Anton', sans-serif;
+    color: #FFF;
+    text-align: center;
+    background-color: #5555;
+    border-width: 8px;
+}
